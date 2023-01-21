@@ -1,0 +1,36 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+.banner1{
+  background-image: url(./image/carousel/1.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+.banner2{
+  background-image: url(./image/carousel/2.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+
+}
+.banner3{
+  background-image: url(./image/carousel/3.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+
+ 
+}
+.icon i{
+    font-size: 70px;
+    margin-right: 30px;
+    
+}
+.service-pera{
+    text-align: justify;
+}
+.client-section-logo img{
+  width: 100%;
+}
+.team-pera-info{
+    text-align: justify;
+    
+}
